@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 <<<<<<< HEAD
 #Hello, I am from the master branch
+Feature changes one
 
 # TEAM
 
