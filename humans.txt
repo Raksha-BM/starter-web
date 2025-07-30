@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 #Hello, I am from the master branch
 Feature changes one
+Feature change new and will add this
 
 # TEAM
 
