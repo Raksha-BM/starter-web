@@ -3,7 +3,11 @@
 <<<<<<< HEAD
 #Hello, I am from the master branch
 Feature changes one
+<<<<<<< Updated upstream
 Feature change new and will add this
+=======
+Feature change tw0 not committing
+>>>>>>> Stashed changes
 
 # TEAM
 
